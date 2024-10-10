@@ -1,0 +1,1 @@
+# gravitee-spec-gen-api
