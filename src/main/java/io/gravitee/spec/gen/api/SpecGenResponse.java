@@ -19,4 +19,4 @@ package io.gravitee.spec.gen.api;
  * @author Rémi SULTAN (remi.sultan at graviteesource.com)
  * @author GraviteeSource Team
  */
-public record SpecGenResponse(String apiId, String result) {}
+public record SpecGenResponse(String apiId, String result, String userId) {}

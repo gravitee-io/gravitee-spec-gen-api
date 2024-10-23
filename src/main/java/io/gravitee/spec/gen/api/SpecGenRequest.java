@@ -22,5 +22,6 @@ package io.gravitee.spec.gen.api;
 public record SpecGenRequest(
   String apiId,
   EndpointType endpointType,
-  Operation operation
+  Operation operation,
+  String userId
 ) {}
