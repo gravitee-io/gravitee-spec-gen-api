@@ -35,7 +35,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
-    <gravitee-bom.version>8.1.16</gravitee-bom.version>
+    <gravitee-bom.version>8.3.66</gravitee-bom.version>
   </properties>
 
   <dependencyManagement>
