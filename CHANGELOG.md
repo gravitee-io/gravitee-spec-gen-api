@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gravitee-io/gravitee-spec-gen-api/compare/1.1.0...1.1.1) (2026-09-17)
+
+
+### Bug Fixes
+
+* **deps:** update io.gravitee:gravitee-parent to v22.6.0 ([f59106b](https://github.com/gravitee-io/gravitee-spec-gen-api/commit/f59106b81f6284c5ada8c0928bc444f4d5921c33))
+
 # [1.1.0](https://github.com/gravitee-io/gravitee-spec-gen-api/compare/1.0.0...1.1.0) (2024-10-24)
 
 
