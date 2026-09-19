@@ -1,7 +1,5 @@
 {
-  "extends": ["config:base"],
+  "extends": ["github>gravitee-io/renovate-config:lib"],
   "prConcurrentLimit": 3,
-  "dependencyDashboard": true,
-  "commitMessageTopic": "{{depName}}",
-  "packageRules": []
+  "dependencyDashboard": true
 }
