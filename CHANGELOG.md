@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/gravitee-io/gravitee-spec-gen-api/compare/1.1.1...2.0.0) (2026-09-21)
+
+
+* chore(deps)!: move to the gravitee orb 5 and parent 24 ([ec1e1fc](https://github.com/gravitee-io/gravitee-spec-gen-api/commit/ec1e1fcf7a9c102a524a1793ff0e1f4f9a23ebef))
+
+
+### BREAKING CHANGES
+
+* the artifact is now compiled for Java 21, up from Java 17, and
+requires a Java 21 runtime or later.
+
+https://gravitee.atlassian.net/browse/BX-403
+
 ## [1.1.1](https://github.com/gravitee-io/gravitee-spec-gen-api/compare/1.1.0...1.1.1) (2026-09-17)
 
 
